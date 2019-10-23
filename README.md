@@ -75,7 +75,7 @@
 | Fragment         | `SignUpFragment`       | `fragment_sign_up.xml`        |
 | Dialog           | `ChangePasswordDialog` | `dialog_change_password.xml`  |
 
-Немного отличается именование файлов используемых для использования в `Adapter`, например в  `RecyclerView`. В данном случае название должно начинаться с `item_`.
+Немного отличается именование файлов для использования в `Adapter`, например в  `RecyclerView`. В данном случае название должно начинаться с `item_`.
 
 #### 1.2.2.3 Menu файлы
 
